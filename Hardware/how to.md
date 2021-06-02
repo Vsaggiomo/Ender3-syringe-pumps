@@ -1,13 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2578
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww16660\viewh10660\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
+# Ender 3 syringe pumps: hardware
 
-\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-# Ender 3 syringe pumps: hardware\
-\
-+ STL and F3D contain the 3D printable files \
-+ Ender 3 Syringe Pump Build Guide is the step by step guide to assemble the syringe pumps }
++ STL and F3D contain the 3D printable files 
++ Ender 3 Syringe Pump Build Guide is the step by step guide to assemble the syringe pumps 
