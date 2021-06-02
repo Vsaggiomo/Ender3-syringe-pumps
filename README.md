@@ -1,4 +1,5 @@
-# Ender 3 syringe pumps: open-source set of syringe pumps from an Ender 3 kit
+# Ender 3 syringe pumps: 
+open-source set of syringe pumps from an Ender 3 kit
 
 ![][1]
 
