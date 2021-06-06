@@ -5,6 +5,8 @@ open-source set of syringe pumps from an Ender 3 kit
 
 Visit [**ChemRxiv**][2] for the preprint.
 
+A video of the project is here: https://www.youtube.com/watch?v=etUp4s1Bq-I
+
 Ender 3 syringe pumps is an open source and open hardware device for converting an Ender 3 kit to a set of 3 syringe pumps. Almost everything needed for the build is the Ender 3 kit, even all the screws and the tools needed for the assembly. 
 The only parts which needed to be bought are three 5x5 shaft couplers and M5 lead screw. 
 All the 3D designs are in the /hardware folder. 
