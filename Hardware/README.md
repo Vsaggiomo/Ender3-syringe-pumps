@@ -9,4 +9,6 @@ This design has been tested with Ender 3 and Ender 3 pro. It works also with the
 
 /STL/PressFitPulley.stl was designed by Jake_of_All_Trades https://www.thingiverse.com/thing:3593964/files 
 
+UPDATE 05-11-2021: 50mL syringe adaptors are in /STL 
+
 [1]: https://github.com/Vsaggiomo/Ender3-syringe-pumps/blob/main/Figures/fig2.jpg
